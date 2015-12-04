@@ -1,0 +1,9 @@
+git clone <repository key (url)>
+git init
+git add
+git commit -m "not blank string"
+git remote add origin https://github.com/YourGithubUsername/RepositoryName.git
+git push origin master
+
+
+git status
